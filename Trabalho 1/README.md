@@ -16,6 +16,7 @@ used to store the ARP Cache.
 Declaration of every function used
 in the algortithm.
 
-Author(s): Dimitre Ortt
-=========
 Last revision: 18/12/2018
+
+Author(s): Dimitre Ortt
+===
