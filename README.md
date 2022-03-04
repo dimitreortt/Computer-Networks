@@ -23,5 +23,5 @@ In the project you can find the declaration of every library used to implement a
 
 Last revision: 09/04/2019
 
-####Author(s): Dimitre Ortt and Jorge Emerson
+##### Author(s): Dimitre Ortt and Jorge Emerson
 
