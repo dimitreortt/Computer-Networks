@@ -2,7 +2,7 @@
 
 ### This project contains two homeworks from the discipline of Computer Networks, realized in the second semester of 2018 at FACOM - UFMS, Campo Grande - MS, Brasil.
 #### First homework:
-This is a implementation of the ARP Request described in the RFC 826. This contains the definition of structures used in the implementation of the ARP Request Algorithm, contains definition of structures of:
+This is a implementation of the ARP Request described in the **RFC 826**. This contains the definition of structures used in the implementation of the ARP Request Algorithm, contains definition of structures of:
 - Interface,
 - Ethernet, 
 - IP Header, 
