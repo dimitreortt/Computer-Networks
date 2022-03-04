@@ -5,8 +5,7 @@
 This is a implementation of the ARP
 Request described in the RFC 826.
 
-OVERVIEW: Header.h
-========
+##### OVERVIEW: Header.h
 This is the Header definition of
 structures used in the implementation
 of the ARP Request Algorithm, and 
@@ -22,5 +21,4 @@ in the algortithm.
 
 Last revision: 18/12/2018
 
-Author(s): Dimitre Ortt
-===
+##### Author(s): Dimitre Ortt
